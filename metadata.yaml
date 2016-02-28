@@ -1,0 +1,35 @@
+_repo: Jean-Christophe-in-Paris-The-Market-Place-Antoinette-the-House_8149
+alternative_title: Jean-Christophe à Paris. English
+contributor:
+  translator:
+    agent_name: Cannan, Gilbert
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '2603'
+    url: http://www.gutenberg.org/2009/agents/2603
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Paris (France) -- Fiction'
+title: 'Jean-Christophe in Paris: The Market-Place, Antoinette, the House'
+url: http://www.gutenberg.org/ebooks/8149
